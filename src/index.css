@@ -1,0 +1,11 @@
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url(https://img.freepik.com/premium-photo/cute-seamless-kids-pattern-background-rainy-cloud-vector-illustration-rain-pattern-background_1283069-723.jpg);
+
+}

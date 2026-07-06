@@ -1,0 +1,56 @@
+@media (max-width: 400px) {
+    .card {
+        width: 100%;
+        /* border-radius: 12px;
+        padding: 15px 0; */
+    }
+
+    .search {
+        max-width: 90%;
+        /* margin: 10px auto 20px; */
+        margin-top: 10px;
+        margin-bottom: 15px;
+        margin-left: 18px;
+        margin-right: 18px;
+    }
+    .inpSr{
+    height: 30px;
+    width: 70%;
+    font-size: 1rem;
+    padding-left: 12px;
+    }
+    .srBtn{
+    height: 35px;
+    width: 30px;
+    padding-right: 12px;
+    }
+
+    .iccon {
+        width: 70px;
+        height: 70px;
+        margin-top: 0px;
+    }
+
+    .temp {
+        font-size: 27px;
+    }
+
+    .place {
+        font-size: 20px;
+    }
+
+    .features {
+        flex-wrap: wrap;
+        flex-direction: column;
+        gap: 4px;
+        margin-bottom: 5px;
+    }
+    .humid{
+        margin: 2px 10px;
+        font-size: 1rem;
+    }
+    .wdspd{
+        margin: 2px 10px;
+        font-size: 1rem;
+    }
+}

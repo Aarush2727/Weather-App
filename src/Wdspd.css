@@ -1,0 +1,8 @@
+.wdspd{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin: 20px 10px 40px 10px;
+    font-size: 1.1rem;
+}
